@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EU4 Multiplayer", "EU4 Multiplayer\EU4 Multiplayer.csproj", "{F01DD550-C0AB-4B4E-A76E-8CD981283577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EU4 Target Selector", "EU4 Target Selector\EU4 Target Selector.csproj", "{3CC62BCA-BA1B-42C2-A6A5-B659FE80F88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F01DD550-C0AB-4B4E-A76E-8CD981283577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01DD550-C0AB-4B4E-A76E-8CD981283577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01DD550-C0AB-4B4E-A76E-8CD981283577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01DD550-C0AB-4B4E-A76E-8CD981283577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC62BCA-BA1B-42C2-A6A5-B659FE80F88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC62BCA-BA1B-42C2-A6A5-B659FE80F88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC62BCA-BA1B-42C2-A6A5-B659FE80F88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC62BCA-BA1B-42C2-A6A5-B659FE80F88B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E694AF-5933-47B0-B65D-54A5BEF31A0E}
+	EndGlobalSection
+EndGlobal
